@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Scientific Publications List</title>
+   <style>
+       body {
+           font-family: 'Arial', sans-serif;
+           max-width: 800px;
+           margin: 0 auto;
+           padding: 30px;
+           line-height: 1.6;
+           color: #333;
+       }
+       h1 {
+           color: #2c3e50;
+           text-align: center;
+           margin-bottom: 30px;
+           border-bottom: 2px solid #3498db;
+           padding-bottom: 10px;
+       }
+       .publication {
+           margin-bottom: 20px;
+           padding: 15px;
+           background-color: #f8f9fa;
+           border-left: 4px solid #3498db;
+           transition: background-color 0.3s;
+       }
+       .publication:hover {
+           background-color: #e9f5ff;
+       }
+       .doi {
+           display: block;
+           margin-top: 5px;
+       }
+       a {
+           color: #2980b9;
+           text-decoration: none;
+       }
+       a:hover {
+           text-decoration: underline;
+       }
+       .journal {
+           font-weight: bold;
+           color: #2c3e50;
+       }
+       .year {
+           color: #7f8c8d;
+       }
+   </style>
+</head>
+<body>
+   <h1>Scientific Publications</h1>
+   
+   <div class="publication">
+       <span class="journal">Asian J. Org. Chem.</span>, <span class="year">2024</span>, 
+       <a class="doi" href="https://doi.org/10.1002/ajoc.202400304" target="_blank">doi.org/10.1002/ajoc.202400304</a>
+   </div>
+   
+   <div class="publication">
+       <span class="journal">Pharmaceuticals</span> <span class="year">2022</span>, 15, 705. 
+       <a class="doi" href="https://doi.org/10.3390/ph15060705" target="_blank">https://doi.org/10.3390/ph15060705</a>
+   </div>
+   
+   <div class="publication">
+       <span class="journal">Beilstein J. Org. Chem.</span> <span class="year">2024</span>, 20, 1069-1075, 
+       <a class="doi" href="https://doi.org/10.3762/bjoc.20.94" target="_blank">https://doi.org/10.3762/bjoc.20.94</a>
+   </div>
+   
+   <div class="publication">
+       <span class="journal">Synlett</span>, <span class="year">2021</span>, 32, 277-282, 
+       <a class="doi" href="https://doi.org/10.1055/s-0040-1705960" target="_blank">https://doi.org/10.1055/s-0040-1705960</a>
+   </div>
+   
+   <div class="publication">
+       <span class="journal">ChemistrySelect</span> <span class="year">2023</span>, 8, e202303122, 
+       <a class="doi" href="https://doi.org/10.1002/slct.202303122" target="_blank">https://doi.org/10.1002/slct.202303122</a>
+   </div>
+   
+   <div class="publication">
+       <span class="journal">Tetrahedron</span> 75 <span class="year">2019</span>, 130659, 
+       <a class="doi" href="https://doi.org/10.1016/j.tet.2019.130659" target="_blank">https://doi.org/10.1016/j.tet.2019.130659</a>
+   </div>
+   
+   <div class="publication">
+       <span class="journal">Molecules</span> <span class="year">2020</span>, 25, 2194, 
+       <a class="doi" href="https://doi.org/10.3390/molecules25092194" target="_blank">https://doi.org/10.3390/molecules25092194</a>
+   </div>
+   
+   <div class="publication">
+       <span class="journal">Int. J. Mol. Sci.</span> <span class="year">2023</span>, 24, 1758, 
+       <a class="doi" href="https://doi.org/10.3390/ijms24021758" target="_blank">https://doi.org/10.3390/ijms24021758</a>
+   </div>
+   
+   <div class="publication">
+       <span class="journal">ChemistrySelect</span> <span class="year">2019</span>, 4, 1510-1515, 
+       <a class="doi" href="https://doi.org/10.1002/slct.201803068" target="_blank">https://doi.org/10.1002/slct.201803068</a>
+   </div>
+   
+   <div class="publication">
+       <span class="journal">Beilstein J. Org. Chem.</span> <span class="year">2017</span>, 13, 2854-2861, 
+       <a class="doi" href="https://doi.org/10.3762/bjoc.13.277" target="_blank">https://doi.org/10.3762/bjoc.13.277</a>
+   </div>
+
+   <p style="text-align: center; margin-top: 40px; color: #7f8c8d; font-size: 0.9em;">
+       Scan the QR code to access this page again
+   </p>
+</body>
+</html>
+
+ 
+
+ 
